@@ -1,7 +1,7 @@
 # aws-vpc-destroy
 Python boto3 script to delete a VPC
 
-#### Why did I write this?
+#### Why was this written?
 Deleting a VPC using boto3 is surprisingly difficult. You can't just follow the steps you would in the console as
 it performs actions on your behalf. Here are some examples of additional steps you have to handle.
 
