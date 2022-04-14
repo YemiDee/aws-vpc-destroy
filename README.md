@@ -32,5 +32,5 @@ This code is not ready for production. For now, please consider its primary use 
 VPC tear down actions using boto3.
 
 #### Acknowledgments
-This script would not have been possible without @neilswinton, @vernhart, @alberto-morales, and @Fabian1976. I took their advice
+This script would not have been possible without @jeffbrl @neilswinton, @vernhart, @alberto-morales, and @Fabian1976. I took their advice
 and incorporated their code snippets into this tool.
